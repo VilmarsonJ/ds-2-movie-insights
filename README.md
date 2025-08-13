@@ -1,18 +1,8 @@
 # DS-2 Movie Insights Project
 ## ***Movie-Insights: Box Office Trends***
-
---- 
-![phoyo](Images/boxoffice.jpg)
-
-Author : [Vilmarson JULES](vilmarsonjules22@gmail.com)
-
-# DS-2 Movie Insights Project
-## Movie-Insights: Box Office Trends
-
 ![Box Office Trends](Images/boxoffice.jpg)
 
 **Author:** [Vilmarson JULES](mailto:vilmarsonjules22@gmail.com)
-
 
 ## Overview
 ---
