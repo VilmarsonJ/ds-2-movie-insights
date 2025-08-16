@@ -171,16 +171,18 @@ In summary, the new studio can achieve success by combining data-driven genre se
 
 - Track key performance metrics: Establish KPIs for revenue, profit rate, and audience engagement to evaluate decisions, optimize resource allocation, and refine strategies over time.
 
-
-## Explore the Full Analysis & Contact
-
+## Full Analysis & Contact
 ---
+Explore the complete analytical workflow in the [Jupyter Notebook](./movie_index.ipynb) or review the [presentation slides](./movie_presentation.pdf) for for a high-level summary key findings and actionable recommendations.
 
-Delve into the complete analytical workflow in the [Jupyter Notebook](./movie_index.ipynb) or consult the accompanying [presentation](./movie_presentation.pdf) slides for a high-level summary of key findings and recommendations.
+For professional inquiries, collaboration opportunities, or discussions about the methodology and insights, reach out to:
 
-For professional inquiries, collaborations, or deeper discussions about the methodology and implications, feel free to reach out to Vilmarson JULES at [vilmarsonjules22@gmail.com](vilmarsonjules22@gmail.com)
+**Vilmarson JULES**  
+Data Science & AI Student  
+📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
+![Vilmarson JULES – Data Science & AI Student](Images/profil.jpg)
 
-![Photo](Images/profil.jpg)
+
 
 
 ## Repository Structure
