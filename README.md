@@ -124,6 +124,20 @@ The byear 2016 shows the highest revenue ($2.61×10¹⁰) and profit ($1.86×10�
 Monitoring these trends enables data-driven budgeting, aligning production scale with revenue potential, and maximizing profit margins year over year.
 Moreover, these trends helps anticipate market dynamics, plan production schedules effectively, and align projects with high-demand periods to optimize financial outcomes.
 
+### 6. Diagnostics Insights
+
+---
+
+- **Insights from Correlation Analysis : **  
+Diagnostic correlation analysis confirms that higher production budgets are associated with higher total revenue and moderately higher profits. Total revenue and profit are nearly perfectly correlated, while audience engagement (number of votes) also shows a moderate positive relationship with financial success, emphasizing the value of popular and well-received films.
+
+ ![Photo](Images/correlation.png)
+
+- **Revenue Differences by Genre : **  
+Statistical tests reveal that total revenue varies significantly across movie genres. High-performing genres such as **SCI-FI, Mystery, and Horror** consistently generate higher revenue compared to frequently produced genres like Action and Drama, confirming the importance of genre selection.
+
+- **Profit Differences by Studio : **
+Analysis shows that top studios, like **BV, Uni., and Fox**,  achieve significantly higher profits than smaller studios. This highlights the impact of operational efficiency, market reach, and production strategy on financial outcomes.
 
 ## Business Recommendations
 
