@@ -1,4 +1,4 @@
-Movie Insights - Project
+# Movie Insights - Project
 ## Movie-Insights: A Data Science Study of High-Performing Movies at the Box Office
 ![Box Office Trends](Images/boxoffice.jpg)
 
@@ -173,7 +173,7 @@ In summary, the new studio can achieve success by combining data-driven genre se
 
 ## Full Analysis & Contact
 ---
-Explore the complete analytical workflow in the [Jupyter Notebook](./movie_index.ipynb) or review the [presentation slides](./movie_presentation.pdf) for for a high-level summary key findings and actionable recommendations.
+Explore the complete analytical workflow in the [Jupyter Notebook](./movie_index.ipynb) or review the [presentation slides](./movie_presentation.pdf) for a high-level summary key findings and actionable recommendations.
 
 For professional inquiries, collaboration opportunities, or discussions about the methodology and insights, reach out to:
 
@@ -181,9 +181,6 @@ For professional inquiries, collaboration opportunities, or discussions about th
 Data Science & AI Student  
 📧 [vilmarsonjules22@gmail.com](mailto:vilmarsonjules22@gmail.com)  
 ![Vilmarson JULES – Data Science & AI Student](Images/profil.jpg)
-
-
-
 
 ## Repository Structure
 
